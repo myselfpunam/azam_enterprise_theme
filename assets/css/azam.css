@@ -877,7 +877,12 @@ html.lenis {
   width: 70px;
 }
 
-
+.btn-option{
+  width: 370px;
+}
+.dropdown-menu{
+  width: 370px;
+}
 .main-menu__logo:before {
   content: "";
   position: absolute;

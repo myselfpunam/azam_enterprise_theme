@@ -54,7 +54,7 @@
     .contact-one__content {
         padding: 71px 30px 80px;
     }
-
+    
     .blog-one__title {
         font-size: 19px;
         line-height: 28px;
@@ -723,6 +723,7 @@
         padding: 120px 0 120px;
     }
 
+   
     .cta-two__inner {
         padding: 48px 30px 48px;
     }
@@ -1046,6 +1047,13 @@
     .contact-one__content-bottom-text-box {
         margin-top: 20px;
     }
+
+    .btn-option{
+        width: 360px;
+      }
+      .dropdown-menu{
+        width: 360px;
+      }
 
     .team-one__carousel.owl-carousel .owl-dots {
         display: none;
@@ -2291,7 +2299,12 @@
     }
 
 
-
+    .btn-option{
+        width: 290px;
+      }
+      .dropdown-menu{
+        width: 290px;
+      }
 
 
 
